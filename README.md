@@ -11,8 +11,6 @@
 
 A clean, minimal **GlazeWM** config with themed workspaces, vim-style navigation, and sensible defaults.
 
----
-
 ## ✨ Features
 
 | Feature                  | Description                                                  |
@@ -28,7 +26,6 @@ A clean, minimal **GlazeWM** config with themed workspaces, vim-style navigation
 | **Smart window rules**   | PiP, Office apps, PowerToys, Lively — all handled gracefully |
 | **Toggle-able**          | Pause/resume window management with `Alt+Shift+P`            |
 
----
 
 ## ⌨️ Keybindings
 
@@ -47,7 +44,6 @@ A clean, minimal **GlazeWM** config with themed workspaces, vim-style navigation
 | `Alt + Shift + P`     | Pause / resume tiling               |
 | `Alt + Shift + R`     | Reload config                       |
 
----
 
 ## 🗂️ Workspaces
 
@@ -59,7 +55,6 @@ A clean, minimal **GlazeWM** config with themed workspaces, vim-style navigation
 | `Alt+4` | Beats | Music                  | Monitor 0 |
 | `Alt+5` | Void  | Buffer & misc          | Monitor 0 |
 
----
 
 ## 🚀 Getting started
 
@@ -67,7 +62,6 @@ A clean, minimal **GlazeWM** config with themed workspaces, vim-style navigation
 2. Replace `%USERPROFILE%\.glazewm\config.yaml` with this file
 3. Reload with `Alt+Shift+R` (or restart GlazeWM)
 
----
 
 ## 📁 File structure
 
